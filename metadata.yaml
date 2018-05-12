@@ -1,0 +1,44 @@
+_repo: A-Floating-Home_42091
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+covers:
+- cover_type: archival
+  image_path: 42091-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Ionides, Cyril
+    gutenberg_agent_id: '41514'
+    url: http://www.gutenberg.org/2009/agents/41514
+  - agent_name: Atkins, J. B. (John Black)
+    alias: Atkins, John Black
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '41515'
+    url: http://www.gutenberg.org/2009/agents/41515
+description: ''
+gutenberg_issued: '2013-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42091'
+  lccn: '19005929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thames River (England)'
+- !lcc 'DA'
+- !lcsh 'Boats and boating'
+- !lcsh 'Essex (England) -- Description and travel'
+title: A Floating Home
+url: http://www.gutenberg.org/ebooks/42091
